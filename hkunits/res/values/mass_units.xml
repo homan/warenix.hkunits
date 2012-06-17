@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mass_units_array">
+        <item>斤</item>
+        <item>両</item>
+        <item>公斤</item>
+        <item>克</item>
+        <item>磅</item>
+        <item>安士</item>
+        <item>錢</item>
+        <item>厘</item>
+    </string-array>
+
+</resources>
