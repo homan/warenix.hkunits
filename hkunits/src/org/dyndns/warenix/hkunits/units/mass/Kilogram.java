@@ -14,7 +14,7 @@ public class Kilogram extends Mass implements Kilogramable {
 
 	@Override
 	public Kilogram toKilogram() {
-		return new Kilogram(1.0);
+		return new Kilogram(mValue * getUnitKilogram());
 	}
 
 	public Kilogramable fromKilogram(Kilogram kg) {
